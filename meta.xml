@@ -1,0 +1,5 @@
+<meta>
+    <info author="Lukk"/>
+
+    <script src="s_main.lua" type="server"/>
+</meta>
