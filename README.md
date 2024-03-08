@@ -4,3 +4,4 @@ Podpora: https://discord.gg/rdngUwKUqr
 
 # Jak to funguje?
 ![Untitled](https://github.com/Lukkay/mtasa-helpchat-system/assets/162629758/b8c64d54-608f-43ff-a96d-da8a716b2cdc)
+(Odebírání oprávnění vidět HelpChat bylo trochu změněné, viz. úpravu)
