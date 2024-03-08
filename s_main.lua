@@ -38,7 +38,11 @@ function HelpChat(thePlayer, cmd, ...)
     
     if getElementData(thePlayer, "showHC") == true then
         setTimer(function ()
-            removeElementData(thePlayer, "showHC")
+            if getElementData(thePlayer, "showHC") == true then
+                removeElementData(thePlayer, "showHC")
+            else
+                return
+            end
         end, 60000, 1)
     end
 end
